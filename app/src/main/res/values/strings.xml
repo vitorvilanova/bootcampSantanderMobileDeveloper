@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lista de Afazeres</string>
+    <string name="label_tasks">Tarefas a Fazer</string>
+    <string name="label_new_task">Criar Nova Tarefa</string>
+    <string name="label_title">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+
+
+    <!--nao estao sendo utilizadas-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lista de Tarefas</string>
+    <string name="nav_header_subtitle">vitorvilanovapinto@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+    <string name="menu_home">MEUS DADOS</string>
+    <string name="menu_gallery">TAREFAS</string>
+    <string name="menu_slideshow">SOBRE</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui nehuma tarefa</string>
+
+</resources>
